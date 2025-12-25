@@ -88,14 +88,3 @@ Engagement Rate = Total Engagements / Total Impressions
 
 - Media Engagements
 
----
-
-## 🔮 Future Improvements
-
-- Add sentiment analysis of tweets
-
-- Integrate live Twitter API data
-
-- Add follower growth metrics
-
-- Improve engagement drill-down analysis
