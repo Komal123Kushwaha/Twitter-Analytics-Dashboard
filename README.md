@@ -74,17 +74,5 @@ The dashboard is designed with a **dark theme UI** for better visual clarity and
 ```text
 Engagement Rate = Total Engagements / Total Impressions
 
-- Total Engagements Include:
 
-- Likes
-
-- Retweets
-
-- URL Clicks
-
-- Hashtag Clicks
-
-- Profile Clicks
-
-- Media Engagements
 
