@@ -1,130 +1,101 @@
-# Twitter-Analytics-Dashboard
-📊 Twitter Analytics Dashboard (Power BI)
+# 📊 Twitter Analytics Dashboard (Power BI)
 
-This project showcases an interactive Twitter Analytics Dashboard built using Microsoft Power BI. The dashboard analyzes Twitter data to provide insights into tweet activity, engagement, impressions, and user interactions over time.
+This project showcases an **interactive Twitter Analytics Dashboard** built using **Microsoft Power BI**.  
+The dashboard analyzes Twitter data to provide insights into tweet activity, engagement, impressions, and user interactions over time.
 
-🚀 Project Overview
+---
+
+## 🚀 Project Overview
 
 The Twitter Analytics Dashboard helps in understanding:
 
-Tweet performance across different days of the week
+- Tweet performance across different days of the week
+- User engagement trends (likes, retweets, clicks)
+- Media performance (views vs engagements)
+- Overall reach and impressions
 
-User engagement trends (likes, retweets, clicks)
+The dashboard is designed with a **dark theme UI** for better visual clarity and professional presentation.
 
-Media performance (views vs engagements)
+---
 
-Overall reach and impressions
+## 🛠️ Tools & Technologies Used
 
-The dashboard is designed with a dark theme UI for better visual clarity and professional presentation.
+- **Power BI Desktop**
+- **Microsoft Excel** (Twitter dataset)
+- **DAX** (for calculated measures)
+- **Power Query** (for data cleaning and transformation)
 
-🛠️ Tools & Technologies Used
+---
 
-Power BI Desktop
+## 📂 Dataset
 
-Microsoft Excel (Twitter dataset)
+- **Source:** Twitter data (exported as Excel file)
+- **File:** `Tweet.xlsx`
 
-DAX (for calculated measures)
+### Data Includes:
+- Tweet Date
+- Tweet Count
+- Likes
+- Retweets
+- Media Views
+- Media Engagements
+- URL Clicks
+- Hashtag Clicks
+- Profile Clicks
+- Impressions
 
-Power Query (for data cleaning and transformation)
+---
 
-📂 Dataset
+## 📈 Dashboard Features
 
-Source: Twitter data (exported as Excel file)
+### 🔹 Key KPIs
+- Total Tweets
+- Total Impressions
+- Media Views
+- Engagement Rate
+- Total Likes
+- Total Retweets
 
-File: Tweet.xlsx
+### 🔹 Visualizations
+- Tweets by Week (Line Chart)
+- Tweet Count by Day (Bar Chart)
+- Media Engagements vs Media Views (Clustered Bar Chart)
+- Impressions by Week (Line Chart)
+- URL Clicks by Tweet (Horizontal Bar Chart)
+- Engagement Breakdown (Pie Chart)
+- KPI Gauges for Likes and Retweets
+- Month Filter (Slicer)
 
-Data includes:
+---
 
-Tweet date
+## 🧮 Calculations & Metrics
 
-Tweet count
-
-Likes
-
-Retweets
-
-Media views
-
-Media engagements
-
-URL clicks
-
-Hashtag clicks
-
-Profile clicks
-
-Impressions
-
-📈 Dashboard Features
-🔹 Key KPIs
-
-Total Tweets
-
-Total Impressions
-
-Media Views
-
-Engagement Rate
-
-Total Likes
-
-Total Retweets
-
-🔹 Visualizations
-
-Tweets by Week (Line Chart)
-
-Tweet Count by Day (Bar Chart)
-
-Media Engagements vs Media Views (Clustered Bar Chart)
-
-Impressions by Week (Line Chart)
-
-URL Clicks by Tweet (Horizontal Bar Chart)
-
-Engagement Breakdown (Pie Chart)
-
-KPI Gauges for Likes and Retweets
-
-Month Filter (Slicer)
-
-🧮 Calculations & Metrics
-
-Engagement Rate
-
+### Engagement Rate
+```text
 Engagement Rate = Total Engagements / Total Impressions
 
+- Total Engagements Include:
 
-Total Engagements include:
+- Likes
 
-Likes
+- Retweets
 
-Retweets
+- URL Clicks
 
-URL Clicks
+- Hashtag Clicks
 
-Hashtag Clicks
+- Profile Clicks
 
-Profile Clicks
+- Media Engagements
 
-Media Engagements
+---
 
-🎨 Dashboard Design
+## 🔮 Future Improvements
 
-Dark theme background
+- Add sentiment analysis of tweets
 
-Consistent blue & yellow color palette
+- Integrate live Twitter API data
 
-🔮 Future Improvements
+- Add follower growth metrics
 
-Add sentiment analysis of tweets
-
-Integrate live Twitter API data
-
-Add follower growth metrics
-
-Improve engagement drill-down analysis
-
-Clean layout with KPI cards and charts
-
-Easy navigation with slicers
+- Improve engagement drill-down analysis
