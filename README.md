@@ -71,8 +71,33 @@ The dashboard is designed with a **dark theme UI** for better visual clarity and
 ## 🧮 Calculations & Metrics
 
 ### Engagement Rate
-```text
+
 Engagement Rate = Total Engagements / Total Impressions
 
+- Total Engagements Include:
+
+- Likes
+
+- Retweets
+
+- URL Clicks
+
+- Hashtag Clicks
+
+- Profile Clicks
+
+- Media Engagements
+  
+---
+
+## 🔮 Future Improvements
+
+- Add sentiment analysis of tweets
+
+- Integrate live Twitter API data
+
+- Add follower growth metrics
+
+- Improve engagement drill-down analysis
 
 
