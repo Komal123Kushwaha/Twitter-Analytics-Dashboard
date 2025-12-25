@@ -1,6 +1,6 @@
 # 📊 Twitter Analytics Dashboard (Power BI)
 
-This project showcases an **interactive Twitter Analytics Dashboard** built using **Microsoft Power BI**.  
+This project showcases an **interactive Twitter Analytics Dashboard** built using **Microsoft Power BI**. 
 The dashboard analyzes Twitter data to provide insights into tweet activity, engagement, impressions, and user interactions over time.
 
 ---
